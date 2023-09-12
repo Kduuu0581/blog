@@ -1,5 +1,7 @@
 Bem vindo ao repositório do projeto Desafio Blog Triibo.
 
+Esta é uma  aplicação React que exibe uma lista de postagens de um blog, consumindo dados
+de uma API pública.
 
 ## Instalação
 ```
